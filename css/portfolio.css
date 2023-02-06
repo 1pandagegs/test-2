@@ -1,0 +1,221 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.frame-22-input {
+    border: 1px none;
+    display: flex;
+    flex-direction: column;
+    height: 100vh;
+    min-height: 4608px;
+    min-width: 1440px;
+    width: 100%;
+  }
+  
+  .frame-22-input .home {
+    display: flex;
+    width: 1440px;
+  }
+  
+  .frame-22-input .hero {
+    height: 1024px;
+    position: relative;
+    width: 1440px;
+  }
+  
+  .frame-22-input .overlap-group2 {
+    height: 1024px;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 1440px;
+  }
+  
+  .frame-22-input .hero-img {
+    height: 939px;
+    left: 460px;
+    object-fit: cover;
+    position: absolute;
+    top: 85px;
+    width: 980px;
+  }
+  
+  .frame-22-input .hero-left {
+    background-color: var(33333);
+    display: flex;
+    flex-direction: column;
+    gap: 180px;
+    height: 1024px;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 460px;
+  }
+  
+  .frame-22-input .goju {
+    color: himalaya;
+    font-family: var(font-family-plaster);
+    font-size: 36px;
+    font-weight: 400;
+    height: 45px;
+    letter-spacing: 0;
+    line-height: normal;
+    margin-left: 134px;
+    margin-top: 20px;
+    text-shadow: 0px 2px 18px #00000040;
+    width: 153px;
+  }
+  
+  .frame-22-input .design {
+    height: 291px;
+    width: 350px;
+  }
+  
+  .frame-22-input .description {
+    align-items: flex-start;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    left: 269px;
+    min-height: 247px;
+    position: absolute;
+    top: 554px;
+    width: 567px;
+  }
+  
+  .frame-22-input .overlap-group1 {
+    height: 163px;
+    margin-top: -1px;
+    position: relative;
+    width: 567px;
+  }
+  
+  .frame-22-input .my-name-is {
+    color: var(--white);
+    font-family: var(--font-family-poppins);
+    font-size: var(--font-size-xxxxl);
+    font-weight: 600;
+    left: 0;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 0;
+    width: 405px;
+  }
+  
+  .frame-22-input .title {
+    color: var(--white);
+    font-family: var(--font-family-poppins);
+    font-size: var(--font-size-xxxxxl);
+    font-weight: 700;
+    left: 0;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 68px;
+    width: 567px;
+  }
+  
+  .frame-22-input .ui-designer {
+    background-color: #775921;
+    border-radius: 10px;
+    display: flex;
+    width: 330px;
+  }
+  
+  .frame-22-input .ui-designer-1 {
+    color: var(--white);
+    font-family: var(--font-family-poppins);
+    font-size: var(--font-size-xxl);
+    font-weight: 400;
+    height: 75px;
+    letter-spacing: 0;
+    line-height: normal;
+    margin-left: 18px;
+    width: 293px;
+  }
+  
+  .frame-22-input .material-symbolskeyboard-double-arrow-up-1 {
+    cursor: pointer;
+    height: 40px;
+    left: 1385px;
+    position: absolute;
+    top: 939px;
+    width: 40px;
+  }
+  
+  .frame-22-input .nav {
+    align-items: flex-end;
+    background-color: var(--x33333);
+    display: flex;
+    height: 85px;
+    justify-content: flex-end;
+    left: 460px;
+    min-width: 980px;
+    position: absolute;
+    top: 0;
+  }
+  
+  .frame-22-input .overlap-group {
+    height: 85px;
+    margin-bottom: -3px;
+    position: relative;
+    width: 854px;
+  }
+  
+  .frame-22-input .design-1 {
+    height: 85px;
+    left: 654px;
+    position: absolute;
+    top: 0;
+    width: 200px;
+  }
+  
+  .frame-22-input .nav-1 {
+    height: 61px;
+    left: 0;
+    position: absolute;
+    top: 11px;
+  }
+  
+  .frame-22-input .nav-links {
+    align-items: center;
+    gap: 25px;
+    height: 56px;
+  }
+  
+  .frame-22-input .place {
+    letter-spacing: 0;
+    line-height: normal;
+    text-shadow: 0px 2px 18px #00000040;
+    width: fit-content;
+  }
+  
+  .frame-22-input .link {
+    cursor: pointer;
+    letter-spacing: 0;
+    line-height: normal;
+    text-shadow: 0px 2px 18px #00000040;
+    width: fit-content;
+  }
+  
+  .frame-22-input .download-cv {
+    align-items: flex-start;
+    background-color: var(--himalaya);
+    border-radius: 10px;
+    cursor: pointer;
+    display: flex;
+    gap: 10px;
+    justify-content: flex-end;
+    padding: 10px 13px;
+    width: fit-content;
+  }
+  
+  .frame-22-input .download-cv-1 {
+    letter-spacing: 0;
+    line-height: normal;
+    margin-top: -1.00px;
+    text-shadow: 0px 2px 18px #00000040;
+    width: fit-content;
+  }
